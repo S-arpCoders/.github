@@ -1,5 +1,5 @@
 
-# Welcome to #Coders 👩‍💻👨‍💻
+# Welcome to SharpCoders 👩‍💻👨‍💻
 
 We are a team of six passionate software developers working together to build innovative, high-quality solutions. Collaboration, creativity, and a drive to deliver exceptional software define our work.
 ---
